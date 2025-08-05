@@ -19,6 +19,25 @@ This is a simple SQL project that demonstrates how to design a **relational data
 
 ---
 
+🔽 Sample Task Done in This Project
+Task: Inserting sample data into all the tables.
+
+Sample inserted:
+
+4 users
+
+3 subscription plans
+
+3 movies
+
+4 genres
+
+Mappings between movies and genres
+
+Watch history for each user
+
+Reviews with ratings and comments
+
 ## 🛠️ How to Run
 
 ### Step 1: Create the Database
